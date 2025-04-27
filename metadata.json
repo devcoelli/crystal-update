@@ -1,0 +1,10 @@
+{
+  "description": "Update indicator for Crystal Linux and GNOME Shell.",
+  "name": "Crystal Linux Updates Indicator",
+  "shell-version": [ "48" ],
+  "url": "https://gitlab.com/crystal-linux/software/crystal-update",
+  "uuid": "crystal-update@CrystalTeam",
+  "gettext-domain": "arch-update",
+  "settings-schema": "org.gnome.shell.extensions.arch-update",
+  "version": 60
+}
